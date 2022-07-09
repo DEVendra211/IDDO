@@ -270,7 +270,7 @@ form{text-align: center;}
 
 /* .set{ max-width: 100%; height: auto;} */
 
-@media screen a`nd (max-width:1220px){
+@media screen and (max-width:1220px){
     h2{font-size: 60px;}
      .team .social{right: 0;}
      .set{ max-width: 100%; height: auto;}
